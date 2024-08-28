@@ -1,4 +1,4 @@
-#Minute Theft Detection
+## Minute Theft Detection
 This project is a Python-based application that uses OpenCV for real-time motion detection and comparison to identify minute theft activities. It leverages structural similarity to spot differences between frames captured from a webcam, alerting the user if any discrepancies are detected.
 
 Features
